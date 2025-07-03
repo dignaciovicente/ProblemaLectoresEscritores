@@ -39,4 +39,5 @@ El objetivo principal es comprender y resolver problemas de concurrencia, evitan
 Este proyecto puede ser la base para sistemas donde múltiples usuarios acceden y modifican información simultáneamente, como bases de datos, sistemas de archivos o aplicaciones web concurrentes.
 
 ## Contacto
-Para dudas o sugerencias, contactar con Ignacio Vicente del Rosal Hernández a través de dignaciovicente@gmail.com
+Para dudas o sugerencias, contactar con Ignacio Vicente del Rosal Hernández a través de
+dignaciovicente@gmail.com
